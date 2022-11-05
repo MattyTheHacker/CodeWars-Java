@@ -1,1 +1,1 @@
-"# CodeWars-Java" 
+# CodeWars-Java
